@@ -1,3 +1,8 @@
-body{
-  background-color: lightsalmon;
+body {
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: darksalmon;
+  text-align: center;
 }
